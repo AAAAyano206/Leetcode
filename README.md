@@ -1,2 +1,4 @@
 # Leetcode
-experience in Leetcode, including my own ideas and problem-solving methods
+
+记录自己做力扣过程中的思路变化，后面如果有机会自己回头看的话，应该能从思维路线中找到可以提升自己的地方
+大概率写的都是每日一题，太简单的或者是之前做过很多次的题就没必要写了，不然就是浪费时间
